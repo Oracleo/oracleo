@@ -1,5 +1,5 @@
 # Niladri Biswas
-### GRC & Information Security | M.Tech Information Security | Graduating June 2026
+### Cyber Risk & Compliance & Information Security | M.Tech Information Security | Graduating June 2026
 
 📍 Naihati, West Bengal, India &nbsp;|&nbsp; 📧 niladri.assurance@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/niladribiswas-assurance)
 
