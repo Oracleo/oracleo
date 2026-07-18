@@ -6,7 +6,7 @@
 <div align="center">
 
 # 🛡️ Niladri Biswas
-### *Cyber Risk, Governance & Compliance (GRC) Analyst*  
+### *Aspiring Cyber Risk, Governance & Compliance (GRC) Analyst*  
 
 🚀 M.Tech Information Security (Graduated June 2026)  
 🔗 **[LinkedIn](https://linkedin.com/in/niladribiswas-assurance)** &nbsp;|&nbsp; 📧 `niladri.assurance@gmail.com`  
