@@ -145,7 +145,7 @@ I have documented **5 end-to-end GRC projects**. Each one focuses on a different
 | Certification | Issuer | Status |
 | :--- | :--- | :--- |
 | **Certified in Cybersecurity (CC)** | ISC2 | ✅ Active |
-| **Security, Compliance & Identity Fundamentals (SC-900)** | Microsoft | ✅ Active |
+| **Security, Compliance & Identity Fundamentals (SC-900)** | Microsoft | 🔃 In Progress |
 | **National Workshop on Cryptology** | IIT Bhilai (3-day On-Site) | ✅ Completed |
 | **Cyber Security Awareness Workshop** | NCIIPC | ✅ Completed |
 | **Introduction to Cybersecurity / Networking Essentials / Ethical Hacker** | Cisco Networking Academy | ✅ Completed |
@@ -163,9 +163,6 @@ I have documented **5 end-to-end GRC projects**. Each one focuses on a different
 - **B.Tech – Computer Science & Engineering** *[2021 – 2024] (CGPA: 8.68)*  
   *Regent Education & Research Foundation Group of Institutions*
 
-- **Diploma – Electrical Engineering** *[2017 – 2020] (OGPA: 8.2)*  
-  *Regent Institute of Science & Technology*
-
 ---
 
 ### 💼 My GRC Philosophy
@@ -174,6 +171,6 @@ I have documented **5 end-to-end GRC projects**. Each one focuses on a different
 
 <div align="center">
 
-**_Available for GRC, Risk, and IT Audit roles starting June 2026_**
+**_Available for GRC, Risk, and IT Audit roles._**
 
 </div>
