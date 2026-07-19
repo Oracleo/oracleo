@@ -17,12 +17,12 @@
 
 ## 📑 Table of Contents
 
-- [🎯 Value Proposition](#-value-proposition)
-- [🛠️ Core Competencies](#-core-grc--security-competencies)
-- [📂 GRC Portfolio Projects](#-my-entry-level-grc-portfolio-5-simulated-engagements)
-- [🎓 Education](#-education)
-- [📜 Certifications](#-certifications)
-- [💡 GRC Philosophy](#-my-grc-philosophy--value-to-your-team)
+- [🎯 Value Proposition](#value-proposition)
+- [🛠️ Core Competencies](#core-grc-security-competencies)
+- [📂 GRC Portfolio Projects](#my-entry-level-grc-portfolio-5-simulated-engagements)
+- [🎓 Education](#education)
+- [📜 Certifications](#certifications)
+- [💡 GRC Philosophy](#my-grc-philosophy-value-to-your-team)
 
 ---
 
