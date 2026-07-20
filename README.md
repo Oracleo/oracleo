@@ -1,151 +1,178 @@
 <div align="center">
 
-# 🛡️ Niladri Biswas
-### *Aspiring GRC & Risk Consulting Professional*
+# Niladri Biswas
+### Entry-Level GRC & Cyber Risk Consultant | Risk Assessment · Compliance Mapping · Audit-Ready Documentation
 
-🎓 **M.Tech in Information Security (Completed June 2026)**  
-🔗 **[LinkedIn](https://linkedin.com/in/niladribiswas-assurance)** &nbsp;|&nbsp; 📧 `niladri.assurance@gmail.com`  
-📍 Naihati, West Bengal, India
+**M.Tech in Information Security** (MAKAUT, 2026) · Naihati, West Bengal, India
 
-[![ISO 27001](https://img.shields.io/badge/ISO%2027001-2022-blue?style=for-the-badge&logo=iso)](https://www.iso.org/standard/27001)
-[![NIST CSF](https://img.shields.io/badge/NIST-CSF%20v2.0-blueviolet?style=for-the-badge&logo=nist)](https://www.nist.gov/cyberframework)
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK%20Mapping-red?style=for-the-badge&logo=mitre)](https://attack.mitre.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niladribiswas-assurance)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niladri.assurance@gmail.com)
+[![ISO 27001](https://img.shields.io/badge/ISO%2027001-2022-1679A7?style=for-the-badge)](https://www.iso.org/standard/27001)
+[![NIST CSF](https://img.shields.io/badge/NIST-CSF%20v2.0-6f42c1?style=for-the-badge)](https://www.nist.gov/cyberframework)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)](https://attack.mitre.org/)
 
 </div>
 
 ---
 
-## 📑 Table of Contents
+### 📌 Quick Pitch
 
-- [🎯 Value Proposition](#value-proposition)
-- [🛠️ Core Competencies](#core-grc-security-competencies)
-- [📂 GRC Portfolio Projects](#my-entry-level-grc-portfolio-5-simulated-engagements)
-- [🎓 Education](#education)
-- [📜 Certifications](#certifications)
-- [💡 GRC Philosophy](#my-grc-philosophy-value-to-your-team)
-
----
-
-<h2 align="center">🎯 Value Proposition</h2>
-
-> *“I am a recent M.Tech Information Security graduate actively seeking an entry-level GRC or Risk Assurance role. While I may not have corporate experience, I have spent my academic tenure building a **foundational portfolio** that mirrors real-world consulting engagements.”*
+> I translate raw technical findings into board-ready risk decisions. Five simulated engagements, five different attack surfaces — network, web app, human, endpoint, and perimeter — each documented as a complete **11-artifact GRC audit suite**: Executive Summary, Dashboard, Risk Register, Compliance Gap Analysis, Cost-Benefit Remediation Tracker, MITRE ATT&CK Mapping, Residual Risk Sign-Off, and Lessons Learned.
 >
-> My work is deeply grounded in **ISO 27001 Annex A**, **NIST CSF**, and **MITRE ATT&CK**. I don't just run scanners; I translate complex technical vulnerabilities into formal business risk registers, cost-benefit analyses, and compliance gap reports. **I prove this in every repository below.**
+> No corporate experience yet — but every repository below is built the way a Big Four analyst's workpapers would be: reconciled numbers, defensible CVSS/EPSS scoring, and honest reporting of testing limitations rather than inflated coverage claims.
 
 ---
 
-<h2 align="center">🛠️ Core GRC & Security Competencies</h2>
+## 📊 Portfolio at a Glance
+
+| # | Engagement | Attack Surface | Headline Finding | Cost-Benefit Case |
+|:-:|:--|:--|:--|:--|
+| 01 | Vulnerability Risk Assessment | Network / Legacy Server | 69 findings, 6 Critical (CVSS 9.8–10.0) incl. Bind Shell Backdoor | **$11K** remediation vs. **$1.1M+** breach exposure |
+| 02 | Web Application Security Assessment | Application Layer | SQLi (CVSS 9.8), XSS, Brute Force, CSRF | **$800** code fix vs. **€20M** GDPR exposure |
+| 03 | Social Engineering & Email Forensics | Human / Third-Party | VirusTotal false negative (0/93) on live phishing IOC | **$200** DMARC policy vs. **$100K** BEC exposure |
+| 04 | SIEM Control Monitoring | Identity & Access | Custom SPL detection, 978 events ingested, T1110.001 validated | **$600** MFA/lockout vs. **$500K** breach exposure |
+| 05 | Network IDS Control Validation | Perimeter / Detection | 250 alerts, 100% true-positive rate, one gap *honestly* disclosed | **$650** SOAR automation vs. **$500K** exposure |
+
+*Every number above is pulled directly from each repository's Risk Register and Remediation Tracker — reconciled, not rounded for effect.*
+
+---
+
+## 🛠️ Core GRC & Security Competencies
 
 <div align="center">
 
-| **Governance & Risk** | **Technical & Detection** | **Frameworks & Communication** |
-| :---: | :---: | :---: |
-| Risk Assessment & Prioritisation (CVSS v3.0, EPSS) | SIEM Concepts & Monitoring (Splunk) | NIST CSF & ISO 27001 Concepts |
-| Audit Support & Evidence Collection | Log Analysis & Anomaly Investigation | MITRE ATT&CK Mapping & Threat Modelling |
-| Security Policy & Control Evaluation | Phishing & Social Engineering Risk | Incident Documentation & Escalation Workflows |
-| Technical Report Writing for Non-Technical Stakeholders | Network Security Concepts (TCP/IP, DNS, HTTP/S) | |
+| Governance & Risk | Technical & Detection | Frameworks & Communication |
+|:--|:--|:--|
+| Risk Assessment & Prioritization (CVSS v3.1, EPSS) | SIEM Concepts & Monitoring (Splunk) | ISO 27001:2022 Annex A & NIST CSF v2.0 |
+| Risk Registers & Cost-Benefit Analysis | Network IDS (Suricata) + Packet Analysis (Wireshark) | MITRE ATT&CK Threat-Informed Defense |
+| Compliance Gap Analysis & Audit Evidence | Web App Security Testing (Burp Suite, OWASP WSTG) | Executive Reporting for Non-Technical Stakeholders |
+| Residual Risk Sign-Off & Governance Cycles | Email/Header Forensics & IOC Enrichment | Incident Documentation & Escalation Workflows |
 
 </div>
 
 ---
 
-<h2 align="center">📂 My Entry-Level GRC Portfolio (5 Simulated Engagements)</h2>
+## 📂 GRC Portfolio — 5 Simulated Engagements
 
-Each of the 5 repositories below contains a **complete 11-document GRC audit suite** (Executive Summary, Dashboard, Risk Register, Cost-Benefit Tracker, Residual Risk Assessment, Lessons Learned, etc.)—designed to prove my ability to document and communicate risk from day one.
+Each repository is structured to mirror a real consulting audit file. Click a project to see how raw technical output becomes formal business risk.
 
 <details>
-<summary><b>🔴 P1 — Vulnerability Risk Assessment (Nessus Essentials)</b></summary>
-<br/>
-<b>Repo:</b> <code>GRC-Project-01-Risk-Based-Vulnerability-Assessment</code><br/>
-<b>Objective:</b> Simulated a network risk assessment on a legacy HR server (Metasploitable2) handling EU employee PII.<br/>
-<b>Outcome:</b> Identified 69 vulnerabilities (6 Criticals, CVSS 9.8–10.0). Prioritized a Bind Shell Backdoor and CVE-2008-0166 using EPSS/CVSS.<br/>
-<b>GRC Artifact Example:</b> <code>06-Remediation-Tracker.md</code> justified an <b>$11k remediation budget</b> to prevent a potential $1M GDPR breach.<br/>
-<a href="https://github.com/Oracleo/GRC-Project-01-Risk-Based-Vulnerability-Assessment.git">🔗 View Full Repository →</a>
+<summary><b>🔴 01 — Vulnerability Risk Assessment</b> <i>(Nessus Essentials · Nmap · Kali Linux)</i></summary>
+<br>
+
+**Repo:** [`GRC-Project-01-Risk-Based-Vulnerability-Assessment`](https://github.com/Oracleo/GRC-Project-01-Risk-Based-Vulnerability-Assessment)
+
+**Scenario:** Unauthenticated external scan of a legacy HR/payroll gateway (`hr-legacy-01.internal.local`) handling EU employee PII for a simulated FinTech/HRTech firm.
+
+**What I did:**
+- Ran a two-phase methodology — Nmap attack-surface mapping, then a full Nessus Essentials scan — and reconciled 69 total findings (6 Critical / 3 High / 4 Medium / 3 Low / 53 Informational).
+- Scored every actionable finding with real CVSS v3.1/v2 vectors — not just a number, the full vector string — plus EPSS where a CVE existed, and a labeled qualitative score where it didn't.
+- Mapped the top 5 findings to MITRE ATT&CK (T1133, T1078, T1557, T1552.004) with adversary-action narratives, not just technique IDs.
+- Built a Cost-Benefit Remediation Tracker justifying an **~$11K** spend against **$1.1M+** in modeled breach cost (GDPR fines, IR, legal).
+
+**Key artifact:** `05-Risk-Register.md` — the master register every other document traces back to.
+
 </details>
 
 <details>
-<summary><b>🟠 P2 — Web Application Security Assessment (Burp Suite)</b></summary>
-<br/>
-<b>Repo:</b> <code>GRC-Project-02-Web-Application-Security-Assessment</code><br/>
-<b>Objective:</b> Manual web application security assessment against a vulnerable app (DVWA) to support PCI DSS compliance simulations.<br/>
-<b>Outcome:</b> Identified 4 High/Critical vulnerabilities: SQLi (9.8), XSS (7.3), Brute Force (7.5), and CSRF (6.5).<br/>
-<b>GRC Artifact Example:</b> <code>07-Compliance-Gap-Analysis.md</code> mapped findings to <b>PCI DSS v4.0 Req 6.5</b> and GDPR Article 32.<br/>
-<a href="https://github.com/Oracleo/GRC-Project-02-Web-Application-Security-Assessment.git">🔗 View Full Repository →</a>
+<summary><b>🟠 02 — Web Application Security Assessment</b> <i>(Burp Suite CE · OWASP WSTG · DVWA)</i></summary>
+<br>
+
+**Repo:** [`GRC-Project-02-Web-Application-Security-Assessment`](https://github.com/Oracleo/GRC-Project-02-Web-Application-Security-Assessment)
+
+**Scenario:** Manual black-box assessment of a simulated customer self-service portal (`CustomerHub`) for a FinTech lender processing 250,000+ consumer records.
+
+**What I did:**
+- Manually tested every input vector per the OWASP WSTG methodology (no automated scanner) using Burp Suite Community Edition — found and validated SQL Injection (CVSS 9.8), Brute Force/Auth Weakness, Reflected XSS, and CSRF.
+- Mapped every finding to ISO 27001 Annex A, NIST CSF, PCI DSS v4.0 Requirement 6.5, and GDPR Article 32 in one Compliance Gap Analysis.
+- Documented a full Residual Risk lifecycle — inherent risk → proposed control → residual risk → formal CISO sign-off.
+
+**Key artifact:** `07-Compliance-Gap-Analysis.md` — direct line from technical flaw to regulatory citation.
+
 </details>
 
 <details>
-<summary><b>🟡 P3 — Social Engineering & Email Forensics (Threat Intel)</b></summary>
-<br/>
-<b>Repo:</b> <code>GRC-Project-03-Social-Engineering-Risk-Assessment</code><br/>
-<b>Objective:</b> Investigated a live phishing email to analyze Human Risk and Third-Party supply chain risks.<br/>
-<b>Outcome:</b> Discovered a <b>VirusTotal False Negative (0/93 detections)</b> and identified the attack originating from a compromised Russian government subdomain (<code>rosreestr.ru</code>).<br/>
-<b>GRC Artifact Example:</b> <code>06-Remediation-Tracker.md</code> recommended a <b>$200 DMARC fix</b> to prevent a $100,000 Business Email Compromise (BEC).<br/>
-<a href="https://github.com/Oracleo/GRC-Project-03-Social-Engineering-Risk-Assessment.git">🔗 View Full Repository →</a>
+<summary><b>🟡 03 — Social Engineering & Email Forensics</b> <i>(Header Analysis · VirusTotal · AbuseIPDB · WHOIS)</i></summary>
+<br>
+
+**Repo:** [`GRC-Project-03-Social-Engineering-Risk-Assessment`](https://github.com/Oracleo/GRC-Project-03-Social-Engineering-Risk-Assessment)
+
+**Scenario:** Investigated a real, reported Advance Fee Fraud (419) phishing email — SPF fail, no DKIM, no DMARC.
+
+**What I did:**
+- Manually validated email authentication failures and traced the relay to a compromised subdomain of a legitimate Russian government domain (`rosreestr.ru`) — abusing domain reputation to bypass filters.
+- Caught and documented a **VirusTotal false negative** (0/93 vendor detections) — proved the case for malicious intent using authentication-failure correlation instead of trusting the automated tool.
+- Mapped the full kill chain to MITRE ATT&CK, correctly distinguishing Initial Access (T1566) from Resource Development (T1585.002 — registering the collection email account).
+- Built the business case for a **~$200** DMARC `p=reject` policy against a modeled **$100K+** BEC exposure.
+
+**Key artifact:** `00-Incident-Report.md` — the audit-grade write-up an actual SOC analyst would file.
+
 </details>
 
 <details>
-<summary><b>🟢 P4 — SIEM Control Monitoring & Risk Assessment (Splunk)</b></summary>
-<br/>
-<b>Repo:</b> <code>GRC-Project-04-SIEM-Security-Control-Monitoring-and-Risk-Assessment</code><br/>
-<b>Objective:</b> Deployed a SIEM to produce audit evidence and validate access control monitoring.<br/>
-<b>Outcome:</b> Ingested 978 Windows Event Logs. Built custom SPL to detect T1110 (Brute Force) with a <code>count >= 3</code> threshold.<br/>
-<b>GRC Artifact Example:</b> <code>09-MITRE-ATTACK-Mapping.md</code> mapped the detection to T1110.001, and <code>06-Remediation-Tracker.md</code> proposed a <b>$600 MFA/Lockout upgrade</b> to neutralize the vector.<br/>
-<a href="https://github.com/Oracleo/GRC-Project-04-SIEM-Security-Control-Monitoring-and-Risk-Assessment.git">🔗 View Full Repository →</a>
+<summary><b>🟢 04 — SIEM Security Control Monitoring</b> <i>(Splunk Enterprise · Windows Event Logs · SPL)</i></summary>
+<br>
+
+**Repo:** [`GRC-Project-04-SIEM-Security-Control-Monitoring-and-Risk-Assessment`](https://github.com/Oracleo/GRC-Project-04-SIEM-Security-Control-Monitoring-and-Risk-Assessment)
+
+**Scenario:** Deployed Splunk to validate a detective control against brute-force attacks on a simulated financial-services Windows endpoint.
+
+**What I did:**
+- Ingested 978 Windows Security Events (EventCode 4625) via Universal Forwarder and built a working SPL detection (`stats count by Account_Name | where count >= 3`) that correctly flagged both a standard and a privileged account.
+- Identified the real gap the detection exposed: a fully operational *detective* control sitting on top of an absent *preventive* control (no lockout, no MFA) — and made that distinction the centerpiece of the executive narrative.
+- Mapped the attack to MITRE ATT&CK T1110 / T1110.001 under the correct Credential Access tactic, and justified a **~$600** lockout + MFA rollout against a **$500K** privileged-account-compromise scenario.
+
+**Key artifact:** `11-Lessons-Learned.md` — "a detective control on a broken preventive control just alerts you to your own failure."
+
 </details>
 
 <details>
-<summary><b>🔵 P5 — Network Control Validation & Risk (Suricata + Wireshark)</b></summary>
-<br/>
-<b>Repo:</b> <code>GRC-Project-05-Network-Control-Validation-and-Risk-Assessment</code><br/>
-<b>Objective:</b> Validated a network IDS control (Suricata) and produced packet-level audit evidence for ISO 27001 A.8.16.<br/>
-<b>Outcome:</b> Triggered 249 alerts. Independently validated 3,130 TCP SYN packets in Wireshark. <b>Honestly documented</b> one rule failing to fire due to an environmental limitation (demonstrating professional integrity).<br/>
-<b>GRC Artifact Example:</b> <code>11-Lessons-Learned.md</code> captured the limitation and recommended a <b>$650 SOAR fix</b> to prevent a $500,000 lateral movement breach.<br/>
-<a href="https://github.com/Oracleo/GRC-Project-05-Network-Control-Validation-and-Risk-Assessment.git">🔗 View Full Repository →</a>
+<summary><b>🔵 05 — Network Control Validation</b> <i>(Suricata IDS · Wireshark · MITRE ATT&CK)</i></summary>
+<br>
+
+**Repo:** [`GRC-Project-05-Network-Control-Validation-and-Risk-Assessment`](https://github.com/Oracleo/GRC-Project-05-Network-Control-Validation-and-Risk-Assessment)
+
+**Scenario:** Deployed Suricata (48,701 Emerging Threats rules + 5 custom rules) and validated it against a simulated Reconnaissance → Scanning → Credential Access kill chain.
+
+**What I did:**
+- Ran a live multi-stage attack (ICMP sweep → Nmap SYN scan → SSH brute force) and independently corroborated every triggered alert against a raw Wireshark packet capture — 250 total alerts, 100% true-positive rate on triggered rules.
+- **Documented one custom rule that did *not* fire** — an HTTP User-Agent rule with no live web service to test against — as an honest environmental limitation rather than omitting it or faking a pass. This is the differentiator I lead every interview with.
+- Mapped the kill chain end-to-end to MITRE ATT&CK (T1595.001 → T1046 → T1110.001), correctly placing Network Service Discovery under the Discovery tactic rather than Reconnaissance.
+- Proposed a **~$650** SOAR automation investment to convert detection into active blocking.
+
+**Key artifact:** `03-Scope-Methodology.md` §3.5 — the constraint disclosed in plain language, with the fix already scoped.
+
 </details>
 
 ---
 
-<h2 align="center">🎓 Education</h2>
+## 🎓 Education
+
+| Degree | Institution | Year | Result |
+|:--|:--|:-:|:--|
+| **M.Tech, Information Security** | MAKAUT, West Bengal | 2026 | Completed |
+| **B.Tech, Computer Science** | Regent Education & Research Foundation | — | CGPA 8.68 |
+
+## 📜 Certifications & Training
+
+| Certification | Issuer | Status |
+|:--|:--|:-:|
+| Certified in Cybersecurity (CC) | ISC2 | ✅ Active |
+| Security, Compliance & Identity Fundamentals (SC-900) | Microsoft | 🔄 In Progress |
+| National Workshop on Cryptology | IIT Bhilai | ✅ Completed |
+| Cyber Security Awareness Workshop | NCIIPC | ✅ Completed |
+| Cloud Computing (Elite Certification) | NPTEL – IIT Kharagpur | ✅ Completed |
+| Introduction to Cybersecurity / Networking | Cisco Networking Academy | ✅ Completed |
+| DevOps & Software Engineering Specialization | IBM | ✅ Completed |
+
+---
+
+## 💡 How I Work
+
+> I don't run a scan and hand over a PDF. I ask what the finding costs the business if it's ignored, what it costs to fix, and who signs off on the difference. Every repository above ends the same way every real engagement should: a documented decision, not just a list of bugs.
 
 <div align="center">
 
-| Degree | Institution | Year | Status / Grade |
-| :--- | :--- | :---: | :--- |
-| **M.Tech in Information Security** | MAKAUT, West Bengal | 2026 | Completed |
-| **B.Tech in Computer Science** | Regent Education & Research Foundation | — | CGPA: 8.68 |
-
-</div>
-
----
-
-<h2 align="center">📜 Certifications</h2>
-
-<div align="center">
-
-| Certification / Training | Issuer | Status |
-| :--- | :--- | :---: |
-| **Certified in Cybersecurity (CC)** | ISC2 | ✅ Active |
-| **Security, Compliance & Identity Fundamentals (SC-900)** | Microsoft | 🔃 In Progress |
-| **National Workshop on Cryptology** | IIT Bhilai (3-Day On-Site) | ✅ Completed |
-| **Cyber Security Awareness Workshop** | NCIIPC | ✅ Completed |
-| **Cloud Computing (Elite Certification)** | NPTEL – IIT Kharagpur | ✅ Completed |
-| **Introduction to Cybersecurity / Networking** | Cisco Networking Academy | ✅ Completed |
-| **DevOps & Software Engineering Specialization** | IBM | ✅ Completed |
-
-</div>
-
----
-
-<h2 align="center">💡 My GRC Philosophy & Value to Your Team</h2>
-
-> *“I am a graduate who doesn't just want to 'run a scan'; I want to understand **why** the scan matters to the business. My portfolio proves I can write executive summaries, justify security budgets to a CISO, and map technical vulnerabilities directly to ISO 27001 controls.*
->
-> *I am looking for my first opportunity to apply these foundational skills in a real-world GRC or Risk Assurance environment.”*
-
-<div align="center">
-
----
-*📩 Open to Junior GRC, Cyber Risk, and IT Audit roles globally.*  
-*Every repository above is audit-ready and built to demonstrate my ability to start contributing on day one.*
+**Open to entry-level GRC Analyst, Cyber Risk Analyst, and IT Audit roles — Anywhere.**
 
 </div>
