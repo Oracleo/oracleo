@@ -150,8 +150,8 @@ Each repository is structured to mirror a real consulting audit file. Click a pr
 
 | Degree | Institution | Year | Result |
 |:--|:--|:-:|:--|
-| **M.Tech, Information Security** | MAKAUT, West Bengal | 2026 | (Results Awaited) |
-| **B.Tech, Computer Science** | Regent Education & Research Foundation | 2024 | CGPA 8.68 |
+| **M.Tech, Information Security** | Maulana Abul Kalam Azad University of Technology (Formerly West Bengal University of Technology) | 2026 | (Results Awaited) |
+| **B.Tech, Computer Science** | Maulana Abul Kalam Azad University of Technology (Formerly West Bengal University of Technology) | 2024 | CGPA 8.68 |
 
 ## 📜 Certifications & Training
 
