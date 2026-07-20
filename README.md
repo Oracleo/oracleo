@@ -1,9 +1,9 @@
 <div align="center">
 
 # Niladri Biswas
-### Entry-Level GRC & Cyber Risk Consultant | Risk Assessment · Compliance Mapping · Audit-Ready Documentation
+### Aspiring GRC & Risk Consulting Professional | Risk Assessment · Compliance Mapping · Audit-Ready Documentation
 
-**M.Tech in Information Security** (MAKAUT, 2026) · Naihati, West Bengal, India
+🎓 **M.Tech in Information Security (Completed June 2026)**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niladribiswas-assurance)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niladri.assurance@gmail.com)
@@ -150,8 +150,8 @@ Each repository is structured to mirror a real consulting audit file. Click a pr
 
 | Degree | Institution | Year | Result |
 |:--|:--|:-:|:--|
-| **M.Tech, Information Security** | MAKAUT, West Bengal | 2026 | Completed |
-| **B.Tech, Computer Science** | Regent Education & Research Foundation | — | CGPA 8.68 |
+| **M.Tech, Information Security** | MAKAUT, West Bengal | 2026 | (Results Awaited) |
+| **B.Tech, Computer Science** | Regent Education & Research Foundation | 2024 | CGPA 8.68 |
 
 ## 📜 Certifications & Training
 
