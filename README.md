@@ -1,7 +1,7 @@
 <div align="center">
 
 # Niladri Biswas
-### Aspiring GRC & Risk Consulting Professional | Risk Assessment · Compliance Mapping · Audit-Ready Documentation
+### Entry-Level GRC & Risk Consulting Professional | Risk Assessment · Compliance Mapping · Audit-Ready Documentation
 
 🎓 **M.Tech in Information Security (Completed June 2026)**  
 
